@@ -1,5 +1,6 @@
 void main(){
     var home = "this is homepage";
-
-    print("this is $home");
+    var homes;
+    print("this is $home page" );
+    
 }
