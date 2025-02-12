@@ -1,5 +1,7 @@
 void main(){
-    var home = "this is homepage";
+    String id ="df";
+    var home = "homepage";
 
     print("this is $home");
+    print("$id")
 }
