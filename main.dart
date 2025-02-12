@@ -1,3 +1,5 @@
 void main(){
-    print("this is main");
+    var home = "this is homepage";
+
+    print("this is $home");
 }
